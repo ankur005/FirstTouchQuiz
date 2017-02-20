@@ -7,6 +7,7 @@
 <li> > delivers presents to 2 houses: one at the starting location, and one to the east. </li>
 <li> ^>v< delivers presents to 4 houses in a square, including twice to the house at his starting/ending location. </li>
 <li> ^v^v^v^v^v delivers a bunch of presents to some very lucky children at only 2 houses. </li>
+</ul>
 <h4> Answer: </h4>
 <p> 2081 </p>
 
@@ -20,6 +21,7 @@
 <li> ^v delivers presents to 3 houses, because Santa goes north, and then Robo-Santa goes south. </li>
 <li> ^>v< now delivers presents to 3 houses, and Santa and Robo-Santa end up back where they started. </li>
 <li> ^v^v^v^v^v now delivers presents to 11 houses, with Santa going one direction and Robo-Santa going the other. </li>
+</ul>
 <h4> Answer: </h4>
 <p> 2341 </p>
 
